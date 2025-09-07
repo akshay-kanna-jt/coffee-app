@@ -1,4 +1,4 @@
-# Coffee Day App
+# Coffee Day App  
 
 A simple Python console application that allows users to view a coffee menu, add items to an order, view the order summary, and checkout with confirmation.
 
