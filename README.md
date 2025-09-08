@@ -16,6 +16,8 @@ This project demonstrates the use of object-oriented programming in Python by cr
 
 ---
 
+CSS work is pending.....
+
 ## 📂 Files
 
 - `coffee_app.py`: The main Python script implementing the Coffee Day app.
